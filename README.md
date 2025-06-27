@@ -9,7 +9,7 @@ This is my personal portfolio website built using HTML and CSS. It showcases my 
 *(Replace the above link with your actual Netlify or GitHub Pages link)*
 
 ## GitHub Repository
-[GitHub Repo Link](https://github.com/venkatasaiteja6077/portfolio)  
+[GitHub Repo Link](https://github.com/venkatasaiteja6077/myPortfolio)  
 *(Replace with the exact repo URL if different)*
 
 ---
